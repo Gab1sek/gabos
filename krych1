@@ -1,0 +1,21 @@
+mport turtle
+
+t = turtle.Turtle()
+
+s = int(input("Zadej delku strany: "))
+
+
+t.forward(s)
+t.left(90)
+
+
+t.forward(s)
+t.left(90)
+
+
+t.forward(s)
+t.left(90)
+
+
+t.forward(s)
+t.left(90)
