@@ -1,0 +1,2 @@
+list = [1,2,44,543]
+print(max(list))
