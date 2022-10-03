@@ -1,0 +1,4 @@
+list = [1,2,44,543]
+print(max(list))
+print(min(list))
+print(sort(list))
